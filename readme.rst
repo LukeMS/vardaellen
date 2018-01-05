@@ -6,6 +6,10 @@ Vardaellen is a small, generic Campaign Setting for core PFRPG (100% under the O
 
 .. _`throwing a tantrum about this whole thing at the PFRPG's forum`: http://paizo.com/threads/rzs2ut24?PRD-content-licensing-GameMastery-GuidePlanar#1
 
+The `ReStructuredText version`_ (of the campaign setting) contains comments about real world lore and mythology that were influences for various parts (eg. rewriting the cosmology)
+
+.. _`ReStructuredText version`: index.rst
+
 Legal Motivations
 ******************
 
