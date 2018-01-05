@@ -1,3 +1,5 @@
+* This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.*
+
 .. role::  raw-html(raw)
     :format: html
 
@@ -744,7 +746,7 @@ Open Game License
 
 .. parsed-literal::
 
- **Product Identity**: The following items are hereby identified as Product Identity, as defined in the Open Game License 1.0a, Section 1(e), and are not Open Content: the software source code (Elements that have previously been designated as Open Game Content are not included in this declaration).
+ **Product Identity**: The following items are hereby identified as Product Identity, as defined in the Open Game License 1.0a, Section 1(e), and are not Open Content: source code of softwares that include this document or parts of it (Elements that have previously been designated as Open Game Content are not included in this declaration).
 
  **Open Content**: Except for material designated as Product Identity (see above), the game mechanics (including textual descriptions) are Open Game Content, as defined in the Open Game License version 1.0a Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced in any form without written permission.
 
