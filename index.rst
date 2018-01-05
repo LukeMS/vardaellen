@@ -205,7 +205,8 @@ Native Creatures: mostly devils, but also kytons and asuras.
 Tartarus (NE): A plane of pure Evil. The Tartarian Oblivion.
 The Astral Ocean's water, when entering the Tartarus domains, becomes acid, where its deepest point is found: at the bottom of the Tartarian Gulf, the deepest of the gulfs, lies the Tartarian Trench, the deepest of the all places among the planes, believed to be bottomless. The Trench itself is used as a dungeon: cells of indestructible walls and gates are constructed on pits carved on its walls, the greatest threats being placed at the greatest depths, where they forever remain into complete Oblivion.
 Native creatures: Daemons
-.. In Greek mythology, Tartarus is the deep abyss that is used as a dungeon of torment and suffering for the wicked and as the prison for the Titans.
+
+.. COMMENT >>> In Greek mythology, Tartarus is the deep abyss that is used as a dungeon of torment and suffering for the wicked and as the prison for the Titans.
 
 
 The Tribunal (TN): A plane of perfect balance perfect balance, between law and chaos, good and evil. The plane consists of a single island in the middle of the Astral Ocean, where a huge, single, construction occupying an area equivalent to that of the greatest vardaellenian cities. 
@@ -226,6 +227,8 @@ The Golden Hall
 A huge hall,  the only entrance to The Dome where the gods lives, is home to the legendary heroes of the past, those that, coming from all planes, worlds and races, proved themselves in battle and performed epic deeds during their lives. They act as a common guard to the Gods of Olympus.
 All day long they fight one another, practicing, performing epic battles, becoming stronger than they could ever be while alive. And every night their wounds are healed, their health fully recovered and they're served feasts worthy of the gods that they guard themselves.
 Among them, some that also prove themselves as faithful followers (and pleasant company) are invited to live on the divine citadels, serving their deities more closely.
+
+.. COMMENT >>> pretty much like The Halls of Valhalha
 
 Native creatures: axiomites, formians, and inevitables.
 
