@@ -1,0 +1,283 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic);
+
+	.wrapper {
+		position: relative;
+		overflow: auto;
+		margin: 5px;
+	}
+
+	.scroller {
+		padding: 10px;
+		max-width: 1000px;
+	}
+
+	.scroller table {
+		width: 100%;
+	}
+
+/* Global */
+body, img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+	width: 97.5%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 1.5%;
+
+	font-size: 14px;
+	font-family: 'PT Serif', serif;
+	background: #fffdf8;
+}
+
+p {
+	line-height: 1.4em;
+	margin: 15px 0;
+	/* can't avoid affecting tables... */
+	text-indent: 1.5em;
+
+}
+
+p::first-line {
+    margin-left: 1.5em;
+}
+
+h1 {
+	border-top: 1px solid #8D8D8D;
+	font: normal 32px 'PT Serif', serif;
+	margin: 30px 0 10px 0;
+}
+
+h2 {
+	border-top: 0.5px solid #C0C0C0;
+	font: normal 26px 'PT Serif', serif;
+	margin: 30px 0 10px 0;
+}
+
+h3 {
+	border-top: 0.25px solid #DADADA;
+	font: normal 20px 'PT Serif', serif;
+	margin: 30px 0 10px 0;
+}
+
+h1 + p, h2 + p, h3 + p {
+	margin: 5px 0 10px 0;
+}
+
+hr {
+  margin: 5px auto;
+  border: 0;
+  border-top: 1px solid #bbb;
+}
+
+sup {
+	line-height: 0;
+}
+
+.nowrap {
+	white-space: nowrap;
+}
+
+li > p {
+	/* top, right, bottom, left*/
+    margin: 1px;
+    text-indent: unset;
+}
+
+
+
+
+/* ##########  Links/Type  ########## */
+a {
+	color: #33337C;
+	text-decoration: none;
+}
+
+a:active, a:hover {
+	text-decoration: underline;
+}
+/* ##########  end Links/Type  ########## */
+
+
+/* ##########  Mobile & Small Screens  ########## */
+@media only screen and (max-width: 800px) {
+	body {
+		background: #fffefc;
+	}
+
+	.header {
+		width: 100%;
+		clear: both; }
+
+	.header-content {
+		text-align: center;
+		background: #660308;
+		background-image: -ms-linear-gradient(top, #660308 0%, #4d0105 100%);
+		background-image: -moz-linear-gradient(top, #660308 0%, #4d0105 100%);
+		background-image: -o-linear-gradient(top, #660308 0%, #4d0105 100%);
+		background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #660308), color-stop(1, #4d0105));
+		background-image: -webkit-linear-gradient(top, #660308 0%, #4d0105 100%);
+		background-image: linear-gradient(to bottom, #660308 0%, #4d0105 100%);
+		background-repeat: repeat-x;
+		border-bottom: 1px solid #330003;
+		-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+		-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+		box-shadow: 0 0 2px #ccc;
+		height: 44px;
+		width: 100%;
+	}
+
+	#header-full {
+		display: none;
+	}
+
+	#header-mobile {
+		display: block;
+		text-align: left;
+		color: #f8f6e7;
+	}
+
+	.body-content {
+		margin-left: 0 !important;
+		margin-top: -5px !important;
+	}
+
+	td, th, tbody td:first-child {
+		white-space: normal !important;
+	}
+
+	.search input {
+		width: 95%;
+		line-height: 25px;
+		padding: 0 0 0 5px;
+	}
+
+	.search {
+		padding: 10px 0 !important;
+		text-align: center;
+	}
+
+	.nav-text {
+		display: none;
+	}
+
+	#nav-path {
+		padding: 5px 0 0 10px;
+	}
+
+	.nav-mobile {
+		display: block;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.wrapper {
+		max-height: 300px;
+		margin: 15px 5px;
+	}
+
+	caption {
+		text-align: left;
+	}
+}
+/* ##########  end Mobile & Small Screens  ########## */
+
+
+/* ##########  Tables  ########## */
+table {
+	font-family: 'Lato', sans;
+	border-collapse: collapse;
+	margin: 10px 0 20px 0;
+	text-align: left;
+}
+
+td > p, th > p {
+	/* top, right, bottom, left*/
+    margin: 1px;
+    text-indent: unset;
+}
+
+
+caption {
+	font: bold 18px 'PT Serif', serif;
+}
+
+th {
+	border-bottom: 2px solid #585858;
+	white-space: nowrap;
+	vertical-align: bottom;
+	font-size: 15px;
+	padding: 5px 10px 5px 10px;
+}
+
+th:first-child {
+	text-align: left;
+}
+
+td {
+	vertical-align: top;
+}
+
+td:first-child {
+	white-space: nowrap;
+}
+
+tbody tr:nth-child(odd) td {
+	background: rgba(0, 0, 0, 0.05);
+}
+
+tbody tr {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+tbody th {
+	padding: 15px 10px 5px 10px;
+}
+
+tbody td {
+	/* top, right, bottom, left*/
+	padding: 1px 10px 1px 10px;
+}
+
+tbody td:first-child {
+	white-space: nowrap !important;
+}
+
+
+tfoot {
+	border-top: 2px solid #ccc;
+}
+
+tfoot td {
+	font-size: 12px;
+	padding: 5px 0 0 0;
+	white-space: normal;
+}
+
+tfoot td:first-child {
+	white-space: normal;
+}
+
+.indent-1 {
+	text-indent: 10px;
+}
+
+.indent-2 {
+	text-indent: 20px;
+}
+
+div.table {
+	width: auto;
+	max-width: 85%;
+}
+/* ##########  end Tables  ########## */
+
+
+/* ##########  Literal block  ########## */
+pre {
+    white-space: pre-wrap;
+}
+/* ##########  end Literal block  ########## */
