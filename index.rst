@@ -1,4 +1,4 @@
-* This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.*
+*This material is Open Game Content, and its whole content is licensed for public use under the terms of the `Open Game License v1.0a`_.*
 
 .. role::  raw-html(raw)
     :format: html
@@ -152,13 +152,13 @@ The planes of existence are different realities with interwoven connections. Exc
 
 The planes break down into a number of general types: the Material Plane, the transitive planes, the Inner Planes, the Outer Planes, and the demiplanes.
 
-**Material Plane**: The Material Plane is the most Earthlike of all the planes, and operates under the same set of natural laws that our own world does. This is the default plane for most adventures.
+**Material Plane**: The `Material Plane`_ is the most Earthlike of all the planes, and operates under the same set of natural laws that our own world does. This is the default plane for most adventures.
 
-**Transitive Planes**: These three planes have one important common characteristic: each is used to get from one place to another. The Astral Plane (although technically an Outer Plane) is a conduit to all other planes, while the Ethereal Plane and the Shadow Plane both serve as means of transportation within the Material Plane, which they're connected to. These planes have the strongest regular interaction with the Material Plane and can be accessed using various spells. They have native inhabitants as well.
+**Transitive Planes**: These three planes have one important common characteristic: each is used to get from one place to another. The `Astral Plane`_ (although technically an Outer Plane) is a conduit to all other planes, while the `Ethereal Plane`_ and the `Shadow Plane`_ both serve as means of transportation within the Material Plane, which they're connected to. These planes have the strongest regular interaction with the Material Plane and can be accessed using various spells. They have native inhabitants as well.
 
-**Demiplanes**: This catch-all category covers all extradimensional spaces that function like planes but have measurable size and limited access. Those can be as large as an Inner or Outter Plane, or as small as a vardaellenian hut.
+**Demiplanes**: This catch-all category covers all extradimensional spaces that function like planes but have measurable size and limited access. Those can be as large as any inner or outer plane, or as small as a vardaellenian hut.
 
-**Inner Planes**: These six planes are manifestations of the basic building blocks of the universe. Each is made up of a single type of energy or element that overwhelms all others. The natives of a particular Inner Plane are made of the same energy or element as the plane itself. The Negative Energy Plane, the Positive Energy Plane, the Plane of Air, the Plane of Earth, the Plane of Fire, and the Plane of Water are all Inner Planes.
+**Inner Planes**: These six planes are manifestations of the basic building blocks of the universe. Each is made up of a single type of energy or element that overwhelms all others. The natives of a particular Inner Plane are made of the same energy or element as the plane itself. The `Negative Energy Plane`_, the `Positive Energy Plane`_, the `Plane of Air`_, the `Plane of Earth`_, the `Plane of Fire`_, and the `Plane of Water`_ are all Inner Planes.
 
 **Outer Planes**: The deities live on the Outer Planes, as do creatures such as celestials, fiends, and other outsiders. Each of the Outer Planes has an alignment representing a particular moral or ethical outlook:
 
@@ -171,85 +171,19 @@ The planes break down into a number of general types: the Material Plane, the tr
      - Neutral
      - Chaotic
    * - Good
-     - Heaven
-     - Utopia
-     - Elysium
+     - `Heaven`_
+     - `Utopia`_
+     - `Elysium`_
    * - Neutral
-     - The Tribunal
-     - Olympus
-     - Entropy
+     - `Olympus`_
+     - `Purgatory`_
+     - `Entropy`_
    * - Evil
-     - Hell
-     - Tartarus
-     - Abyss
+     - `Hell`_
+     - `Tartarus`_
+     - `Abyss`_
 
-The natives of each plane tend to behave in agreement with that plane's alignment. The Outer Planes are also the final resting place of souls from the Material Plane, whether that final rest takes the form of calm introspection or eternal damnation.
-
-Heaven (LG): A plane of harmony between law and good. Everlasting green plains of (Heaven). Six rivers, each one larger and longer than any river found on Vardaellen, splits the plane into Seven Heavens. The Heaven Rivers contain crystalline water that tastes slightly like honey
-Native creatures: archons.
-
-Utopia (NG): A plane of the purest good. Here the Middle Path between chaos and order is walked to achieve the greater good. Geographicaly, the plane of Nirvana is almost like a small version of the Material Plane, with its poles twisted 90º: Cold arctic poles on both west and east extremes; plenty of water as if the Nirvana itself were made of tectonic-like plates floating over the Astral Ocean itself. The huge variety of fauna, flora and weather among the plane doesn't get in the way of the Enlightment, the pursue of the Middle Path, for small settlements and monasteries are spread all over the plane, proving that Good can be achieved anywhere.
-Native creatures: mostly agathion, but also all of the celestial wildlife, mortals, gods and angels.
-
-Elysium (CG): A plane of good and freedom. Artistry and creativity flourish at the taverns of Dionysia, the Capital of Arts - the dream of every bard.
-Outside of the city, wildlife thrives, either on the deep jungles and forest or on the many rivers that cross the Elysium. Even the Astral Ocean, when near the Coast of Elysium, assumes characteristics closer to those of the Material Plane's oceans, and becomes filled with live.
-Some of the greatest jungles and forests of Elysium and Utopia are spread across the frontier between those two planes, each one occupying areas that would make the greatest of the vardaellenian forests pale in comparison.
-Native creatures: Azatas, Titans
-
-Hell (LE): A plane of evil, strictly organized to maximize destructive power. Its ge
-A rocky wasteland with iron citadels and ever-erupting volcanoes, the Hell 
-Deep inside the Hell, the largest of the hellish citadels is the lair of the Hell's Greatest: the Asmodeus. At the plane of Hell, the only rivers that can be found are those of the lava flowing from the volcanoes towards the Ocean.
-Native Creatures: mostly devils, but also kytons and asuras.
-
-
-Tartarus (NE): A plane of pure Evil. The Tartarian Oblivion.
-The Astral Ocean's water, when entering the Tartarus domains, becomes acid, where its deepest point is found: at the bottom of the Tartarian Gulf, the deepest of the gulfs, lies the Tartarian Trench, the deepest of the all places among the planes, believed to be bottomless. The Trench itself is used as a dungeon: cells of indestructible walls and gates are constructed on pits carved on its walls, the greatest threats being placed at the greatest depths, where they forever remain into complete Oblivion.
-Native creatures: Daemons
-
-.. COMMENT >>> In Greek mythology, Tartarus is the deep abyss that is used as a dungeon of torment and suffering for the wicked and as the prison for the Titans.
-
-
-The Tribunal (TN): A plane of perfect balance perfect balance, between law and chaos, good and evil. The plane consists of a single island in the middle of the Astral Ocean, where a huge, single, construction occupying an area equivalent to that of the greatest vardaellenian cities. 
-Here mortal souls arrive from their journey trough the Astral Ocean and await judgment for their actions during life - and the place where they should spend their eternity is chosen.
-Inside its walls of gray marble-like material, uncountable courts (and uncountable waiting rooms) exists.
-Native Creatures: Psychopomp
-
-Olympus (LN): a place of perfect order. It consists of the Mount Olympus, lair to most of the gods, and, guarding its only entry, the Golden Fortress.
-
-Mount Olympus
-
-The highest mountain of the planes, Mount Olympus has a perfectly plain top of continental size, covered by a magic dome as impenetrable as something maintained by the combined power of many gods can be.
-Inside The Dome, each god has its own small citadel, where they live surrounded by their most faithful followers, most brilliant assistants, and greatest guardians.
-Native creatures: axiomites, formians, and inevitables.
-
-The Golden Hall
-
-A huge hall,  the only entrance to The Dome where the gods lives, is home to the legendary heroes of the past, those that, coming from all planes, worlds and races, proved themselves in battle and performed epic deeds during their lives. They act as a common guard to the Gods of Olympus.
-All day long they fight one another, practicing, performing epic battles, becoming stronger than they could ever be while alive. And every night their wounds are healed, their health fully recovered and they're served feasts worthy of the gods that they guard themselves.
-Among them, some that also prove themselves as faithful followers (and pleasant company) are invited to live on the divine citadels, serving their deities more closely.
-
-.. COMMENT >>> pretty much like The Halls of Valhalha
-
-Native creatures: axiomites, formians, and inevitables.
-
-Entropy (CN): a place of ultimate chaos, the Entropy is an ever changing plane, completely unpredictable and extremely dangerous for most living beings - even immortal ones.
-Dark and cold, the Entropy resembles the outer space where each of the six basic building blocks of the universe (Positive Energy, Negative Energy, Air, Earth, Fire and Water) are present as separate masses that change their form.
-Each of these bodies absorbs its own kind of matter and contracts itself down to the size of a small coin. When it becomes unsustainable to contain such amounts of matter in a such small body, they explode, releasing their matter all around Entropy, only to start the process all over again.
-One Myth of Creation, says that all of the planes and the know universe was created from Entropy.
-
- In the beginning there was Chaos and there were the Old Gods. Apart from themselves and the infinite contraction cycle of the primal matters, everything was empty, silent, endless, dark. There was no one to worship, serve or entertain them, so they created the other forms of life. But there was nowhere they could live, for the Entropy itself would destroy their creations soon after they became to exist. So the Old Gods created the planes and the universe. And then they constrained the Entropy to a single one of these planes. Their creations could now be placed in places suitable for them to live and worship them.
-
-The colossal task of first, creating, and then, sustaining life and the universe requires the Gods to invest a considerable part of their power. Trough worship they were able regain part of it back, but that also created the possibility of one god surpassing others in power, as long as they could convert some of their followers.
-If the Gods of Old were equal in power, the Gods of our time present a great disparity of power between them. Some of those Gods, failing to maintain their worshipers, became no more than a shadow of their former selves and are now even called "Demi-God".
-
-After the infinite Void was contained into a single, limited plane, the Entropy acquired the form of a sea of chaos, where the Proteans - the life form created to live in the Entropy itself - now live, dreaming of restoring their home to its former infinitude. Living with canvas of reality itself within their reach, they even learned to manipulate it to a minor extent and create some things on their own. The one god that created the Proteans, whose name has now been completely forgotten, is said to, after so millennia living in the Entropy, ended up becoming one with it, a living aspect of Entropy itself.
-
-Native creatures: Proteans
-
-Abyss (CE)
-
-Native creatures: Demons
-
+The natives of each plane tend to behave in agreement with that plane's alignment. The Outer Planes are also the final resting place of souls from the `Material Plane`_, whether that final rest takes the form of calm introspection or eternal damnation.
 
 Planar Traits
 *******************
@@ -421,12 +355,13 @@ d%      Effect
 99-100  The spell functions strongly. Saving throws against the spell incur a -2 penalty. The spell has the maximum possible effect, as if it were cast with the Maximize Spell feat. If the spell is already maximized with the feat, there is no further effect.
 ======= =======
 
-The Great Beyond
-*****************
+The Planes
+***********
 
-The planes are collectively known as the Great Beyond, and form a vast, nesting sphere. At the heart of the sphere lie the Material Plane and its twisted reflection, the Shadow Plane, bridged by the mists of the Ethereal Plane. The elemental planes of the Inner Sphere surround this heart. Farther out, beyond the void of the Astral Plane, sits the unimaginably vast Outer Sphere, which is itself surrounded and contained by the innumerable layers of the Abyss.
+The planes, collectively, form a vast, are like continents floating on the Astral Ocean. 
+At the heart of the sphere lie the Material Plane and its twisted reflection, the Shadow Plane, bridged by the mists of the Ethereal Plane. The elemental planes of the Inner Sphere surround this heart. Farther out, beyond the void of the Astral Plane, sits the unimaginably vast Outer Sphere, which is itself surrounded and contained by the innumerable layers of the Abyss.
 
-The planes that make up the Great Beyond are briefly detailed below.
+The planes are briefly detailed below.
 
 .. PathFinder Planes (old) Interview with Todd Stewart (writer of "The Great Beyond"): https://web.archive.org/web/20160828111836/http://mimir.planewalker.com/node/9918
 .. A extensive forum discussion about the outter plane's denizens for d&d 3.x that closely relates to PFRPG: https://web.archive.org/web/20180103195725/http://www.giantitp.com/forums/showthread.php?182055-The-Outer-Planes-Angels-Archons-Demons-and-Devils
@@ -560,60 +495,12 @@ The Astral Plane has the following traits:
  * **Enhanced Magic**: All spells and spell-like abilities used within the Astral Plane may be employed as if they were improved by the Quicken Spell or Quicken Spell-Like Ability feats. Already quickened spells and spell-like abilities are unaffected, as are spells from magic items. Spells so quickened are still prepared and cast at their unmodified level. As with the Quicken Spell feat, only one quickened spell or spell-like ability can be cast per round.
 
 
-The Abyss (Chaotic Evil)
-=========================
+.. _`Heaven`: `Heaven (LG)`_
 
-Surrounding the Outer Sphere like the impossibly deep skin of an onion, the layered plane of the Abyss begins as gargantuan canyons and yawning chasms in the fabric of the other Outer Planes, bordered by the foul waters of the River Styx. Coterminous with all of the Outer Planes, the infinite layers of the Abyss connect to one another in constantly shifting pathways. There are no rules in the Abyss, nor laws, order, or hope. The Abyss is a perversion of freedom, a nightmare realm of unmitigated horror where desire and suffering are given demonic form, for the Abyss is the spawning ground of the innumerable races of demons, among the oldest beings in all the Great Beyond.
+Heaven (LG)
+============
 
-The Abyss has the following traits:
-
- * **Divinely Morphic and Sentient**: Deities with domains in the Abyss can alter the plane at will, as can the Abyss itself.
- * **Strongly Chaos-Aligned and Strongly Evil-Aligned**
- * **Enhanced Magic**: Spells and spell-like abilities with the chaotic or evil descriptor are enhanced.
- * **Impeded Magic**: Spells and spell-like abilities with the lawful or good descriptor are impeded.
-
-Abyss Native Creatures
-~~~~~~~~~~~~~~~~~~~~~~~
-
- * Amongst other beings of evil and chaos, the majority of the creatures found in the the Abyss are `demons <Demon_>`_. 
-
-
-
-Abaddon (Neutral Evil)
-=======================
-
-A realm of vast wastelands under a rotten sky, Abaddon is perpetually cloaked in a cloying black mist and the oppressive twilight of an endless solar eclipse. The poisoned River Styx has its source in Abaddon, before it meanders like a twisted serpent onto other planes. Abaddon may be the most hostile of the Outer Planes; it is the home of the daemons, fiends of pure evil untouched by the struggle between law and chaos, who personify oblivion and destruction. Daemons, which are ruled by four godlike archdaemons, are feared throughout the Great Beyond as devourers of souls.
-
-Abaddon has the following traits:
-
- * **Divinely Morphic**: Deities with domains in Abaddon can alter the plane at will.
- * **Strongly Evil-Aligned**
- * **Enhanced Magic**: Spells and spell-like abilities with the evil descriptor are enhanced.
- * **Impeded Magic**: Spells and spell-like abilities with the good descriptor are impeded.
-
-
-Abaddon Native Creatures
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
- * Amongst other beings of evil, the majority of the creatures found in Abaddon are `daemons <Daemon_>`_.
-
-
-Elysium (Chaotic Good)
-=======================
-
-A vast land of untamed wilderness and wild passions, Elysium is the plane of benevolent chaos. Freedom and self-sufficiency abound here, personified in the azatas native to the plane. In Elysium, selfless cooperation and fierce competition clash with the violence of a raging thunderstorm, but such conflicts never overshadow the lofty concepts of bravery, creativity, and good unhindered by rules or laws.
-
-Elysium has the following traits:
-
- * **Divinely Morphic**: Deities with domains in Elysium can alter the plane at will.
- * **Strongly Chaos-Aligned and Strongly Good-Aligned**
- * **Enhanced Magic**: Spells and spell-like abilities with the chaotic or good descriptor are enhanced.
- * **Impeded Magic**: Spells and spell-like abilities with the lawful or evil descriptor are impeded.
-
-Heaven (Lawful Good)
-=====================
-
-The soaring mountain of Heaven towers high above the Outer Sphere. This ordered realm of honor and compassion is divided into seven layers. Heaven's slopes are filled with planned, orderly cities and tidy, cultivated gardens and orchards. Though they began their existences as mortals, Heaven's native archons see law and good as indivisible halves of the same exalted concept, and array themselves against the cosmic perversions of chaos and evil.
+A plane of harmony between law and good. Everlasting green plains of (Heaven). Six rivers, each one larger and longer than any river found on Vardaellen, splits the plane into Seven Heavens. The Heaven Rivers contain crystalline water that tastes slightly like honey.
 
 Heaven has the following traits:
 
@@ -622,42 +509,67 @@ Heaven has the following traits:
  * **Enhanced Magic**: Spells and spell-like abilities with the lawful or good descriptor are enhanced.
  * **Impeded Magic**: Spells and spell-like abilities with the chaotic or evil descriptor are impeded.
 
-Limbo (Chaotic Neutral)
-========================
+Native creatures
+~~~~~~~~~~~~~~~~~
 
-A vast ocean of unrestrained chaos and untapped potential surrounds and is coterminous with each of the Outer Planes. This is Limbo—beautiful, deadly, and truly endless. From its unplumbed depths were born all the other planes, and to its anarchic deeps will all creation eventually return. Where the formless sea of Limbo laps against the shores of other planes, its substance takes on some measure of stability, and it is within these borderlands that travel is safest, though it is still fraught with danger from Limbo's chaos-warped inhabitants. Deeper into the plane, Limbo's native proteans cavort in the Primal Chaos, creating and destroying the raw stuff of chaos with unfathomable abandon.
+Archons.
 
-Limbo has the following traits:
 
- * **Subjective Directional Gravity and Normal Gravity**: On the few islands of stability within Limbo, gravity is more likely to be normal (down is toward the center of mass). Everywhere else, gravity is subjective directional.
- * **Erratic Time**
- * **Highly Morphic**
- * **Strongly Chaos-Aligned**
- * **Wild Magic and Normal Magic**: On the few islands of stability within Limbo, magic is more likely to be normal. Magic is wild everywhere else.
+.. _`Utopia`: `Utopia (NG)`_
 
-Nirvana (Neutral Good)
-=======================
+Utopia (NG)
+============
 
-Nirvana is an unbiased paradise existing between the two extremes of Elysium and Heaven. Its stunning mountains, rolling hills, and deep forests all match a visitor's expectations of a pastoral paradise, but Nirvana also contains mysteries that lead to enlightenment. Nirvana is a sanctuary and a place of respite for all who seek redemption or illumination. Nirvana's native agathions have willingly postponed their own transcendence to guard Nirvana's enigmas, while celestial beings fight the forces of evil across the planes.
+A plane of the purest good. Here the Middle Path between chaos and order is walked to achieve the greater good.
 
-Nirvana has the following traits:
+The plane of Utopia consist of tectonic-like plates, varying from small to continental sizes, floating along the central northern part of the Astral Ocean.
+Its weather is diverse, varying from the tropical-like weather of its southern part, the Utopian Shores, passing trough a subtropical zone, a temperate zone and finally a cold one, the Utopian Arctic, at its northern part. One could say that Utopia looks like a hole hemisphere of Vardaellen.
+That allows the plane of Utopia to have a representation of every single vardaellenian biome, with its respective fauna and flora.
+In terms of variety it even surpasses the wildlife of the Elysium, but not in numbers, for even the wildlife population in Utopia is moderate.
+Spread amongst each of those biomes there are small monasteries where those that follow the Way of the Middle Path live - proving that the Enlightment and Good can be obtained no matter where.
 
- * **Divinely Morphic**: Deities with domains in Nirvana can alter the plane at will.
+Utopia has the following traits:
+
+ * **Divinely Morphic**: Deities with domains in Utopia can alter the plane at will.
  * **Strongly Good-Aligned**
  * **Enhanced Magic**: Spells and spell-like abilities with the good descriptor are enhanced.
  * **Impeded Magic**: Spells and spell-like abilities with the evil descriptor are impeded.
 
-Purgatory (Neutral)
-====================
+Native creatures
+~~~~~~~~~~~~~~~~~
 
-Every soul passes through Purgatory to be judged before being sent on to its final destination in the Great Beyond. Vast graveyards and wastelands fill its gloomy expanses, along with dusty, echoing courts for the judgment of the dead. Purgatory is home to the aeons, a race who embody the dualistic nature of existence and who are constantly both at war and at peace with each other and themselves.
+Mostly agathion, but also all of the celestial wildlife, mortals, gods and angels.
 
-Purgatory has the following traits:
 
- * **Timeless**: Age, hunger, thirst, afflictions (such as diseases, curses, and poisons), and natural healing don't function in Purgatory, though they resume functioning when the traveler leaves Purgatory.
- * **Divinely Morphic**: Deities with domains in Purgatory can alter the plane at will.
- * **Strongly Neutral-Aligned**
- * **Enhanced Magic**: Spells and spell-like abilities with the death descriptor, or from the Death or Repose domains, are enhanced.
+.. _`Elysium`: `Elysium (CG)`_
+
+Elysium (CG)
+=============
+
+A plane of good and freedom. Artistry and creativity flourish at the taverns of Dionysia, the Capital of Arts - the dream of every bard.
+Outside of the city, wildlife thrives, either on the deep jungles and forest or on the many rivers that cross the Elysium. Even the Astral Ocean, when near the Coast of Elysium, assumes characteristics closer to those of the Material Plane's oceans, and becomes filled with live.
+Some of the greatest jungles and forests of Elysium and Utopia are spread across the frontier between those two planes, each one occupying areas that would make the greatest of the vardaellenian forests pale in comparison.
+
+Elysium has the following traits:
+
+ * **Divinely Morphic**: Deities with domains in Elysium can alter the plane at will.
+ * **Strongly Chaos-Aligned and Strongly Good-Aligned**
+ * **Enhanced Magic**: Spells and spell-like abilities with the chaotic or good descriptor are enhanced.
+ * **Impeded Magic**: Spells and spell-like abilities with the lawful or evil descriptor are impeded.
+
+Native creatures
+~~~~~~~~~~~~~~~~~
+
+Azatas, Titans
+
+
+.. _`Olympus`: `Olympus (LN)`_
+
+Olympus (LN)
+==================
+
+A place of perfect order. It consists of the Mount Olympus, lair to most of the gods, and, guarding its only entry, the Golden Fortress.
+
 
 Utopia (Lawful Neutral)
 ========================
@@ -671,6 +583,149 @@ Utopia has the following traits:
  * **Strongly Law-Aligned**
  * **Enhanced Magic**: Spells and spell-like abilities with the lawful descriptor are enhanced.
  * **Impeded Magic**: Spells and spell-like abilities with the chaotic descriptor are impeded.
+
+Inside each godly citadel, however, the rules vary according to each specific deity, as if the citadel was a minor plane of its own.
+
+.. COMMENT >>> Buddhism's Nirvana
+
+Native creatures
+~~~~~~~~~~~~~~~~~
+
+axiomites, formians, and inevitables.
+
+
+Mount Olympus
+~~~~~~~~~~~~~~
+
+The highest mountain of the planes, Mount Olympus has a perfectly plain top of continental size, covered by The Dome: a magic barrier as impenetrable as something maintained by the combined power of many gods would be.
+Inside The Dome, each god has its own small citadel, where they live surrounded by their most faithful followers, most brilliant assistants, and greatest guardians.
+The Dome itself is like a great Estate of complete perfection, with roads of golden bricks interconnecting every godly citadel in perfectly symmetric ways - the citadels themselves, however, are exactly how their deities want them to be once one leaves the common grounds of The Dome and enters a specific domain, everything could be found.
+
+The Golden Hall
+~~~~~~~~~~~~~~~~
+
+A huge hall,  the only entrance to The Dome where the gods lives, is home to the legendary heroes of the past, those that, coming from all planes, worlds and races, proved themselves in battle and performed epic deeds during their lives. They act as a common guard to the Gods of Olympus.
+All day long they fight one another, practicing, performing epic battles, becoming stronger than they could ever be while alive. And every night their wounds are healed, their health fully recovered and they're served feasts worthy of the gods that they guard themselves.
+Among them, some that also prove themselves as faithful followers (and pleasant company) are invited to live on the divine citadels, serving their deities more closely.
+
+.. COMMENT >>> pretty much like The Halls of Valhalha, but in a lawful way
+
+.. _`Purgatory`: `Purgatory (TN)`_
+
+Purgatory (TN)
+===============
+
+A plane of perfect balance between law and chaos, good and evil. The plane consists of a single island in the center of the Astral Ocean, directly above the Inner Planes.
+On the center of that island a single, huge, construction, occupying an area equivalent to that of the greatest vardaellenian cities, stands: The Tribunal.
+The mortal souls of those recently departed travels through the Astral Ocean and arrive at docs of the purgatory before heading to The Tribunal.
+
+The Purgatory has the following traits:
+
+ * **Timeless**: Age, hunger, thirst, afflictions (such as diseases, curses, and poisons), and natural healing don't function in Purgatory, though they resume functioning when the traveler leaves Purgatory.
+ * **Divinely Morphic**: Deities with domains in Purgatory can alter the plane at will.
+ * **Strongly Neutral-Aligned**
+ * **Enhanced Magic**: Spells and spell-like abilities with the death descriptor, or from the Death or Repose domains, are enhanced.
+
+The Tribunal
+~~~~~~~~~~~~~
+
+Here the mortal souls that arrive await judgment for their actions during life - and the place where they should spend their eternity is chosen.
+Inside its walls of gray marble-like material, uncountable courts (and uncountable waiting rooms) exists.
+
+Native Creatures
+~~~~~~~~~~~~~~~~~
+
+Psychopomp.
+
+.. COMMENT >>> Psychopomps comes from the Greek and means the "guide of souls")
+
+.. _`Entropy`: `Entropy (CN)`_
+
+Entropy (CN)
+================
+
+A place of ultimate chaos, the Entropy is an ever changing plane, completely unpredictable and extremely dangerous for most living beings - even immortal ones.
+Dark and cold, the Entropy resembles the outer space where each of the six basic building blocks of the universe (Positive Energy, Negative Energy, Air, Earth, Fire and Water) are present as separate masses that change their form.
+Each of these bodies absorbs its own kind of matter and contracts itself down to the size of a small coin. When it becomes unsustainable to contain such amounts of matter in a such small body, they explode, releasing their matter all around Entropy, only to start the process all over again.
+One Myth of Creation, says that all of the planes and the know universe was created from Entropy.
+
+ In the beginning there was Chaos and there were the Old Gods. Apart from themselves and the infinite contraction cycle of the primal matters, everything was empty, silent, endless, dark. There was no one to worship, serve or entertain them, so they created the other forms of life. But there was nowhere they could live, for the Entropy itself would destroy their creations soon after they became to exist. So the Old Gods created the planes and the universe. And then they constrained the Entropy to a single one of these planes. Their creations could now be placed in places suitable for them to live and worship them.
+
+The colossal task of first, creating, and then, sustaining life and the universe requires the Gods to invest a considerable part of their power. Trough worship they were able regain part of it back, but that also created the possibility of one god surpassing others in power, as long as they could convert some of their followers.
+If the Gods of Old were equal in power, the Gods of our time present a great disparity of power between them. Some of those Gods, failing to maintain their worshipers, became no more than a shadow of their former selves and are now even called "Demi-God".
+
+After the infinite Void was contained into a single, limited plane, the Entropy acquired the form of a sea of chaos, where the Proteans - the life form created to live in the Entropy itself - now live, dreaming of restoring their home to its former infinitude. Living with canvas of reality itself within their reach, they even learned to manipulate it to a minor extent and create some things on their own. The one god that created the Proteans, whose name has now been completely forgotten, is said to, after so millennia living in the Entropy, ended up becoming one with it, a living aspect of Entropy itself.
+
+Entropy has the following traits:
+
+ * **Subjective Directional Gravity and Normal Gravity**: On the few islands of stability within Entropy, gravity is more likely to be normal (down is toward the center of mass). Everywhere else, gravity is subjective directional.
+ * **Erratic Time**
+ * **Highly Morphic**
+ * **Strongly Chaos-Aligned**
+ * **Wild Magic and Normal Magic**: On the few islands of stability within Entropy, magic is more likely to be normal. Magic is wild everywhere else.
+
+Native creatures
+~~~~~~~~~~~~~~~~~
+
+Proteans.
+
+
+.. _`Hell`: `Hell (LE)`_
+
+Hell (LE)
+==========
+
+A plane of evil, strictly organized to maximize destructive power. Its ge
+A rocky wasteland with iron citadels and ever-erupting volcanoes, the Hell 
+Deep inside the Hell, the largest of the hellish citadels is the lair of the Hell's Greatest: the Asmodeus. At the plane of Hell, the only rivers that can be found are those of the lava flowing from the volcanoes towards the Ocean.
+
+Native Creatures
+~~~~~~~~~~~~~~~~~
+
+Mostly devils, but also kytons and asuras.
+
+
+.. _`Tartarus`: `Tartarus (NE)`_
+
+Tartarus (NE)
+==============
+
+A plane of pure Evil. The Tartarian Oblivion.
+The Astral Ocean's water, when entering the Tartarus domains, becomes acid, where its deepest point is found: at the bottom of the Tartarian Gulf, the deepest of the gulfs, lies the Tartarian Trench, the deepest of the all places among the planes, believed to be bottomless. The Trench itself is used as a dungeon: cells of indestructible walls and gates are constructed on pits carved on its walls, the greatest threats being placed at the greatest depths, where they forever remain into complete Oblivion.
+The surface of the Tartarian Wastelands is the home of the daemons, fiends of pure evil untouched by the struggle between law and chaos, who personify oblivion and destruction. Daemons, which are ruled by four godlike archdaemons, are feared throughout The Planes as devourers of souls.
+
+The Tartarus has the following traits:
+
+ * **Divinely Morphic**: Deities with domains in Tartarus can alter the plane at will.
+ * **Strongly Evil-Aligned**
+ * **Enhanced Magic**: Spells and spell-like abilities with the evil descriptor are enhanced.
+ * **Impeded Magic**: Spells and spell-like abilities with the good descriptor are impeded.
+
+
+Native creatures
+~~~~~~~~~~~~~~~~~
+
+Amongst other beings of evil, the majority of the creatures found in Tartarus are `daemons <Daemon_>`_.
+
+.. COMMENT >>> In Greek mythology, Tartarus is the deep abyss that is used as a dungeon of torment and suffering for the wicked and as the prison for the Titans.
+
+
+.. _`Abyss`: `Abyss (CE)`_
+
+Abyss (CE)
+============
+
+The Abyss has the following traits:
+
+ * **Divinely Morphic and Sentient**: Deities with domains in the Abyss can alter the plane at will, as can the Abyss itself.
+ * **Strongly Chaos-Aligned and Strongly Evil-Aligned**
+ * **Enhanced Magic**: Spells and spell-like abilities with the chaotic or evil descriptor are enhanced.
+ * **Impeded Magic**: Spells and spell-like abilities with the lawful or good descriptor are impeded.
+
+Native creatures
+~~~~~~~~~~~~~~~~~
+
+Amongst other beings of evil and chaos, the majority of the creatures found in the the Abyss are `demons <Demon_>`_. 
 
 
 Section 15: Copyright Notice
@@ -691,11 +746,11 @@ Demon
 
 Demons exist for one reason—to destroy. Where their more lawful counterparts, the devils of Hell, seek to twist mortal minds and values to remake and reshape them into reflections of their own evil, demons seek only to maim, ruin, and feed. They recruit mortal life only if such cohorts speed along the eventual destruction of hope and goodness. Death is, in some ways, their enemy—for a mortal who dies can often escape a demon's depredations and flee to his just reward in the afterlife. It is the prolonging of mortal pain and suffering that fuels a demon's lusts and desires, for it is partially from mortal sin and cruelty that these monstrous fiends were born.
 
-Demons are the most prolific and among the most destructive of the fiendish races, yet despite what some lore might preach, they were not the first forms of life to rise in the stinking pits of ruin and cruelty known across the multiverse as `the Abyss <The Abyss (Chaotic Evil)_>`_. Before the first fledgling deity gazed upon reality, before mortal life drew its breath, before even the Material Plane itself had fully formed, the Abyss was infested with life.
+Demons are the most prolific and among the most destructive of the fiendish races, yet despite what some lore might preach, they were not the first forms of life to rise in the stinking pits of ruin and cruelty known across the multiverse as `Abyss`_. Before the first fledgling deity gazed upon reality, before mortal life drew its breath, before even the Material Plane itself had fully formed, the Abyss was infested with life.
 
-Known to many scholars as “proto-demons,” these wretched and deadly beings were the qlippoth. Today, because of the influence of sinful mortal souls upon the Abyss, mixed with unholy tamperings at the hands of the daemonic keepers of Abaddon and the cruel whims of fate and evolution, the rule of the qlippoth has receded. The proto-demons dwell now in the noxious and forgotten corners of the Abyss, and the far more fecund and prolific demons rule now in their stead. With each evil mortal soul that finds its way into the Abyss, the ranks of the demonic hordes grows—a single soul can fuel the manifestation of dozens or even hundreds of demons, with the exact nature of the sins carried by the soul guiding the shapes and roles of the newly formed fiends.
+Known to many scholars as “proto-demons,” these wretched and deadly beings were the qlippoth. Today, because of the influence of sinful mortal souls upon the Abyss, mixed with unholy tamperings at the hands of the daemonic keepers of Tartarus and the cruel whims of fate and evolution, the rule of the qlippoth has receded. The proto-demons dwell now in the noxious and forgotten corners of the Abyss, and the far more fecund and prolific demons rule now in their stead. With each evil mortal soul that finds its way into the Abyss, the ranks of the demonic hordes grows—a single soul can fuel the manifestation of dozens or even hundreds of demons, with the exact nature of the sins carried by the soul guiding the shapes and roles of the newly formed fiends.
 
-The Abyss is a vast (some say infinite) realm, far larger than any other plane save possibly the primal chaos of the Maelstrom itself. As befits such a vast and varied realm, the demonic host is likewise diverse. Some carry in their frames humanoid shapes, while others are twisted beasts. Some flop on land while others flap in air or sea. Some are schemers and manipulators of emotion and politics, others are destructive engines of ruin. Yet all demons work to the same goal—pain and suffering for mortal life in all its forms.
+The Abyss is a vast (some say infinite) realm, far larger than any other plane save possibly the primal chaos of the Entropy itself. As befits such a vast and varied realm, the demonic host is likewise diverse. Some carry in their frames humanoid shapes, while others are twisted beasts. Some flop on land while others flap in air or sea. Some are schemers and manipulators of emotion and politics, others are destructive engines of ruin. Yet all demons work to the same goal—pain and suffering for mortal life in all its forms.
 
 Yet despite this, mortals have sought demonic aid since the start. Be it an instinctual draw to self-destruction or a misguided lust for power, conjurers to this day continue to draw forth demons with forbidden magic. Some conjure demons for lore, while others call upon them to serve as assassins or guards. Demons view such summoners with a mix of hatred and thanks, for most demons lack the ability to come to the Material Plane to wreak havoc on their own. They depend on the mad to call them up from the Abyss, and while they gnash their fangs and rail against the commands and strictures enforced, most demons find ways to twist their summoners' demands so that even the most tightly controlled demonic slave leaves a trace of ruin and despair in its wake. More often than not, a foolish spellcaster makes a fatal mistake in the conjuring and pays for it with blood, unwittingly releasing a terrible blight upon the world as his conjuration breaks free of his control.
 
@@ -708,7 +763,7 @@ Harbingers of ruin and embodiments of the worst ways to die, daemons epitomize p
 
 Notorious for their hatred of the living, daemons are the things of dark dreams and fearful tales, as their ultimate ambitions include extinguishing every individual mortal life—and the more violent or terrible the end, the better. Their methods vary wildly, typically differentiated by daemonic breed. Many seek to infiltrate the mortal plane and sow death by their own taloned hands, while others manipulate agents (both mortal and immortal) as malevolent puppet masters, instigating calamities on massive scales from their grim realms. Such diversity of methods causes many planar scholars to misattribute the machinations of daemons to other types of fiends. These often deadly mistakes are further propagated by daemons' frequent dealings with and manipulation of other outsiders. Yet in all cases, despair, ruin, and death, spreading like contagion, typify the touch of daemonkind, though such symptoms often prove recognizable only after the hour is far too late.
 
-Daemons flourish upon the plane of Abaddon, a bleak expanse of cold mists, fearful shapes, and hunted souls. Upon these wastes, the souls of evil mortals flee predation by the native fiends, and terror and the powers of the evil plane eventually transform the most ruthless into daemons themselves. Amid these scarred wastelands, poison swamps, and realms of endless night rise the foul domains of the tyrants of daemonkind, the Four Horsemen of the Apocalypse. Lords of devastation, these powerful and unique daemons desire slaughter, ruin, and death on a cosmic scale, and drive hordes of their lesser kin to spread terror and sorrow across the planes. Although the Horsemen share a singular goal, their tactics and ambitions vary widely.
+Daemons flourish upon the plane of Tartarus, a bleak expanse of cold mists, fearful shapes, and hunted souls. Upon these wastes, the souls of evil mortals flee predation by the native fiends, and terror and the powers of the evil plane eventually transform the most ruthless into daemons themselves. Amid these scarred wastelands, poison swamps, and realms of endless night rise the foul domains of the tyrants of daemonkind, the Four Horsemen of the Apocalypse. Lords of devastation, these powerful and unique daemons desire slaughter, ruin, and death on a cosmic scale, and drive hordes of their lesser kin to spread terror and sorrow across the planes. Although the Horsemen share a singular goal, their tactics and ambitions vary widely.
 
 Along with mastery over vast realms, the Horsemen are served by unimaginably enormous armies of their lesser brethren, but are obeyed most closely by retinues of daemons enslaved to their titles. These specific strains of daemonic servitors, known among daemonkind as deacons, serve whoever holds the title of Horseman. Although these instruments of the archdaemons differ in strength and ability, their numbers provide their lords with legions capable of near-equal terrorization.
 
@@ -744,8 +799,8 @@ Section 15: Copyright Notice
 
 .. _`Bestiary 2`: https://web.archive.org/web/20170124205000/http://paizo.com/pathfinderRPG/prd/bestiary2/additionalMonsterIndex.html
 
-Open Game License
-##################
+Open Game License v1.0a
+########################
 
 .. parsed-literal::
 
