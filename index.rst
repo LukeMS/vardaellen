@@ -1,13 +1,21 @@
+.. role::  raw-html(raw)
+    :format: html
+
+
+:raw-html:`<script type="text/javascript" src="script.js"></script>`
+
 This document is Open Game Content: its whole content is licensed for public use under the terms of the `Open Game License v1.0a`_.
 
 Much of the credit here goes to the the authors of a vast number of reference materials used, under the terms of the OGL, to produce this Campaign Setting. You can check the list at the `Section 15 of the above license <Open Game License v1.0a_>`_.
 
 If you would like to contribute to the development of Vardaellen, here is `how you can help <support Vardaellen_>`_. Or if you're curious about why would someone would do something like this at all, `the legal reasons that motivated this project can also be found there <support Vardaellen_>`_.
 
-.. _`support Vardaellen`: https://github.com/LukeMS/vardaellen
+Eventually one or another illustrations, nothing fancy, should be inserted here to help clarify one thing or another (eg. how The Planes are organized).
+If you want to hide those images, just click on the button bellow (you can always click it again to toggle the images, if you change your mind).
 
-.. role::  raw-html(raw)
-    :format: html
+:raw-html:`<button name="toggleImages" onclick="myFunction()">Hide Images</button>`
+
+.. _`support Vardaellen`: https://github.com/LukeMS/vardaellen
 
 
 Table of Contents
@@ -271,10 +279,9 @@ The planes are briefly detailed below.
 .. A extensive forum discussion about the outter plane's denizens for d&d 3.x that closely relates to PFRPG: https://web.archive.org/web/20180103195725/http://www.giantitp.com/forums/showthread.php?182055-The-Outer-Planes-Angels-Archons-Demons-and-Devils
 .. Help me build an OGC outer plane cosmology http://www.enworld.org/forum/showthread.php?343408-Help-me-build-an-OGC-outer-plane-cosmology
 
-|Inner, Material and Ethereal planes|_
+:raw-html:`<div id="images"><a class="reference external" href="https://orig00.deviantart.net/d22e/f/2018/005/f/5/the_inner_planes_by_lucasmsiqueira-dbz1us3.png"><img alt="Inner, Material and Ethereal planes" name="optionalImages" src="https://t00.deviantart.net/W-4coNImGsKcKqqDJfJZnsPsgaA=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/08a9/th/pre/f/2018/005/f/5/the_inner_planes_by_lucasmsiqueira-dbz1us3.png" /></a></div>`
 
-.. |Inner, Material and Ethereal planes| image:: https://t00.deviantart.net/W-4coNImGsKcKqqDJfJZnsPsgaA=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/08a9/th/pre/f/2018/005/f/5/the_inner_planes_by_lucasmsiqueira-dbz1us3.png
-.. _`Inner, Material and Ethereal planes`: https://orig00.deviantart.net/d22e/f/2018/005/f/5/the_inner_planes_by_lucasmsiqueira-dbz1us3.png
+
 
 Material Plane
 ===============
