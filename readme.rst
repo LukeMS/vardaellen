@@ -1,14 +1,28 @@
-Vardaellen
-###########
+Vardaellen is a small, generic Campaign Setting for core PFRPG.
 
-Vardaellen is a small, generic Campaign Setting for core PFRPG (100% under the Open Game License). It was intended to designed so that it could be used for multiple purposes. My my personal goal, however, was to create a complete set of PFRPG rules + a generic campaign setting that was safe to be used by softwares developers, including games developers. You can read more about the `Legal Motivations`_ and me `throwing a tantrum about this whole thing at the PFRPG's forum`, if you want. But you should probably just go on and read the `Vardaellen campaign setting`_
+You can find the `Campaign Setting itself here <Vardaellen campaign setting_>_`.
+
+Below are some more technical and legal details behind the whole project and how you can contribute to it.
+
+Vardaellen's Mission
+#####################
+
+ * To build a simple Reference of PFRPG rules and generic Campaign Setting that can be freely used (under the terms of the `Open Game License`_) as:
+  * a digital, easy to navigate, light (if compared to a PDF or a site with ads) digital reference for regular tabletop games;
+  * a safe-to-use reference without the PFRPG Product Identities (non-free content) that are `allegedly present even on the official PRD`_;
+  * a ready-to-use reference for software development, including games (by becoming free of Product Identities, as mentioned above, but also by providing most tables in easy-to-use ways, like json).
+ 
+ Please note that those are goals, before that point is actually reached there's much work to do - and that is why every help is appreciated.
+
+.. _`allegedly present even on the official PRD`: http://paizo.com/threads/rzs2ut24?PRD-content-licensing-GameMastery-GuidePlanar#4
+
+.. _`Open Game License`: https://lukems.github.io/vardaellen/#open-game-license-v1-0a
 
 
-.. _`throwing a tantrum about this whole thing at the PFRPG's forum`: http://paizo.com/threads/rzs2ut24?PRD-content-licensing-GameMastery-GuidePlanar#1
-
-The `ReStructuredText version`_ (of the campaign setting) contains comments about real world lore and mythology that were influences for various parts (eg. rewriting the cosmology)
+The `ReStructuredText version`_ (of the Vardaellen Campaign Setting) contains comments about real world lore, mythology and other influences behind some parts that got rewritten (eg. The Planes)
 
 .. _`ReStructuredText version`: index.rst
+
 
 Legal Motivations
 ******************

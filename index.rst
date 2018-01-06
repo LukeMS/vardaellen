@@ -1,7 +1,14 @@
-*This material is Open Game Content, and its whole content is licensed for public use under the terms of the `Open Game License v1.0a`_.*
+This document is Open Game Content: its whole content is licensed for public use under the terms of the `Open Game License v1.0a`_.
+
+Much of the credit here goes to the the authors of a vast number of reference materials used, under the terms of the OGL, to produce this Campaign Setting. You can check the list at the `Section 15 of the above license <Open Game License v1.0a_>`_.
+
+If you would like to contribute to the development of Vardaellen, here is `how you can help <support Vardaellen_>`_. Or if you're curious about why would someone would do something like this at all, `the legal reasons that motivated this project can also be found there <support Vardaellen_>`_.
+
+.. _`support Vardaellen`: https://github.com/LukeMS/vardaellen
 
 .. role::  raw-html(raw)
     :format: html
+
 
 Table of Contents
 #######################
@@ -11,6 +18,7 @@ Table of Contents
 .. sectnum::
    :suffix: - 
 
+
 The World of Vardaellen
 ########################
 
@@ -18,6 +26,7 @@ Besides Earth's universe, there are other parallel universes that exists in the 
 Vardaellen is a planet that resembles Earth in many of its characteristics - but filled with incredible creatures, powerful magic and deities that directly affect the lives of many. At the Vardaellen's universe, it is the 3th closest planet orbits a yellow sun in a solar system among uncountable others.
 Each universe exist in several planes of existence, the Material Plane being the where we live our Earthlike lives and where Vardaellen campaign setting usually takes place.  The Material Plane tends to be the most Earthlike of all planes and operates under the same set of natural laws that our own real world does.
 In terms of technology, Vardaellen resembles our Earth during the Middle Ages - so, even if, for clarification, we speak of the a solar system and multiverses, those concepts are still unkonwn to the Vardaellen's races.
+
 
 Origin of the word Vardaellen
 ******************************
@@ -32,111 +41,6 @@ Most people believe that the origin of the word Vardaellen was lost along the ag
  By joining the two words, he forged "Vardaellen", and announced:
  - Vardallen, that how we're going to call this fantastic place!
  Surprisingly, the name ended up being adopted by most (if not all) of the intelligent races, even extra-planar creatures - which was undoubtedly a sign of the traveler's power and enough reason for anyone to never contest it.
-
-
-
-Designing Encounters
-#######################
-
-Step 1 - Determine APL
-*************************
-
-For a party of four characters, an average CR (Challenge Rating) equals the APL (Average Party Level). If the party is smaller then four or larger then four, subtract or add the difference, respectively.
-
-Step 2 - Choose the difficulty of the encounter
-*************************************************
-
-+--------------------------------+
-| Difficulty of the encounter    |
-+-------------+------------------+
-| Difficulty  | Challenge Rating |
-+=============+==================+
-| Easy        | APL -1           |
-+-------------+------------------+
-| Average     | APL              |
-+-------------+------------------+
-| Challenging | APL +1           |
-+-------------+------------------+
-| Hard        | APL +2           |
-+-------------+------------------+
-| Epic        | APL +3           |
-+-------------+------------------+
-
-Step 3 - Build the encounter
-*****************************
-
-Determine the "XP budget" for the encounter by looking for the CR on the table below. Every creature, trap, and hazard is worth an amount of XP.  To build your encounter, simply add creatures, traps, and hazards whose combined XP does not exceed the total XP budget for your encounter. It's easiest to add the highest CR challenges to the encounter first, filling out the remaining total with lesser challenges.
-
-+-----+-----------------------------------------+
-|CR   | Individual XP                           |
-|     +-----------+---------+---------+---------+
-|     | Total XP  |1-3      |4-5      | 6+      |
-+=====+===========+=========+=========+=========+
-| 1/8 | 50        | 15      | 15      | 10      |
-+-----+-----------+---------+---------+---------+
-| 1/6 | 65        | 20      | 15      | 10      |
-+-----+-----------+---------+---------+---------+
-| 1/4 | 100       | 35      | 25      | 15      |
-+-----+-----------+---------+---------+---------+
-| 1/3 | 135       | 45      | 35      | 25      |
-+-----+-----------+---------+---------+---------+
-| 1/2 | 200       | 65      | 50      | 35      |
-+-----+-----------+---------+---------+---------+
-| 1   | 400       | 135     | 100     | 65      |
-+-----+-----------+---------+---------+---------+
-| 2   | 600       | 200     | 150     | 100     |
-+-----+-----------+---------+---------+---------+
-| 3   | 800       | 265     | 200     | 135     |
-+-----+-----------+---------+---------+---------+
-| 4   | 1,200     | 400     | 300     | 200     |
-+-----+-----------+---------+---------+---------+
-| 5   | 1,600     | 535     | 400     | 265     |
-+-----+-----------+---------+---------+---------+
-| 6   | 2,400     | 800     | 600     | 400     |
-+-----+-----------+---------+---------+---------+
-| 7   | 3,200     | 1,070   | 800     | 535     |
-+-----+-----------+---------+---------+---------+
-| 8   | 4,800     | 1,600   | 1,200   | 800     |
-+-----+-----------+---------+---------+---------+
-| 9   | 6,400     | 2,130   | 1,600   | 1,070   |
-+-----+-----------+---------+---------+---------+
-| 10  | 9,600     | 3,200   | 2,400   | 1,600   |
-+-----+-----------+---------+---------+---------+
-| 11  | 12,800    | 4,270   | 3,200   | 2,130   |
-+-----+-----------+---------+---------+---------+
-| 12  | 19,200    | 6,400   | 4,800   | 3,200   |
-+-----+-----------+---------+---------+---------+
-| 13  | 25,600    | 8,530   | 6,400   | 4,270   |
-+-----+-----------+---------+---------+---------+
-| 14  | 38,400    | 12,800  | 9,600   | 6,400   |
-+-----+-----------+---------+---------+---------+
-| 15  | 51,200    | 17,100  | 12,800  | 8,530   |
-+-----+-----------+---------+---------+---------+
-| 16  | 76,800    | 25,600  | 19,200  | 12,800  |
-+-----+-----------+---------+---------+---------+
-| 17  | 102,400   | 34,100  | 25,600  | 17,100  |
-+-----+-----------+---------+---------+---------+
-| 18  | 153,600   | 51,200  | 38,400  | 25,600  |
-+-----+-----------+---------+---------+---------+
-| 19  | 204,800   | 68,300  | 51,200  | 34,100  |
-+-----+-----------+---------+---------+---------+
-| 20  | 307,200   | 102,000 | 76,800  | 51,200  |
-+-----+-----------+---------+---------+---------+
-| 21  | 409,600   | 137,000 | 102,400 | 68,300  |
-+-----+-----------+---------+---------+---------+
-| 22  | 614,400   | 205,000 | 153,600 | 102,400 |
-+-----+-----------+---------+---------+---------+
-| 23  | 819,200   | 273,000 | 204,800 | 137,000 |
-+-----+-----------+---------+---------+---------+
-| 24  | 1,228,800 | 410,000 | 307,200 | 204,800 |
-+-----+-----------+---------+---------+---------+
-| 25  | 1,638,400 | 546,000 | 409,600 | 273,000 |
-+-----+-----------+---------+---------+---------+
-
-Example: If you're targeting CR 1, with a XP budget of 400, 2 Orcs could fit the encounter (2 * 135 = 270), but 3 would exceed it. The remaining 130 xp 
-
-Source: Core Rulebook, Chapter 12 - Gamemastering, Building an Adventure, Designing Encounters
-
 
 
 The planes
@@ -649,7 +553,7 @@ Dark and cold, the Entropy resembles the outer space where each of the six basic
 Each of these bodies absorbs its own kind of matter and contracts itself down to the size of a small coin. When it becomes unsustainable to contain such amounts of matter in a such small body, they explode, releasing their matter all around Entropy, only to start the process all over again.
 One Myth of Creation, says that all of the planes and the know universe was created from Entropy.
 
- In the beginning there was Chaos and there were the Old Gods. Apart from themselves and the infinite contraction cycle of the primal matters, everything was empty, silent, endless, dark. There was no one to worship, serve or entertain them, so they created the other forms of life. But there was nowhere they could live, for the Entropy itself would destroy their creations soon after they became to exist. So the Old Gods created the planes and the universe. And then they constrained the Entropy to a single one of these planes. Their creations could now be placed in places suitable for them to live and worship them.
+ *In the beginning there was Chaos and there were the Old Gods. Apart from themselves and the infinite contraction cycle of the primal matters, everything was empty, silent, endless, dark. There was no one to worship, serve or entertain them, so they created the other forms of life. But there was nowhere they could live, for the Entropy itself would destroy their creations soon after they became to exist. So the Old Gods created the planes and the universe. And then they constrained the Entropy to a single one of these planes. Their creations could now be placed in places suitable for them to live and worship them.*
 
 The colossal task of first, creating, and then, sustaining life and the universe requires the Gods to invest a considerable part of their power. Trough worship they were able regain part of it back, but that also created the possibility of one god surpassing others in power, as long as they could convert some of their followers.
 If the Gods of Old were equal in power, the Gods of our time present a great disparity of power between them. Some of those Gods, failing to maintain their worshipers, became no more than a shadow of their former selves and are now even called "Demi-God".
@@ -787,6 +691,113 @@ Naunets: Possessing little in the way of culture, the powerful naunets are the m
 Imenteshes: These cunning proteans seek to subvert the forces of order from within their own systems, whispering information and insinuations where they can do the most damage. Endlessly creative, they adore reforming the landscapes of Entropy to suit their fancies, but enjoy warping the vistas and creatures of other planes even more.
 
 Keketars: Priest-kings and voices of Entropy itself, keketars rule their fellows in the name of their bizarre god. Though their forms are extremely mutable, keketars can always be recognized thanks to eyes that glow amber or violet and floating crowns of swirling and changing symbols that often appear above their heads. Organized into cabals called choruses, keketars seek only to understand and follow the will of entropy.
+
+
+Designing Encounters
+#######################
+
+
+Step 1 - Determine APL
+*************************
+
+For a party of four characters, an average CR (Challenge Rating) equals the APL (Average Party Level). If the party is smaller then four or larger then four, subtract or add the difference, respectively.
+
+
+Step 2 - Choose the difficulty of the encounter
+*************************************************
+
++--------------------------------+
+| Difficulty of the encounter    |
++-------------+------------------+
+| Difficulty  | Challenge Rating |
++=============+==================+
+| Easy        | APL -1           |
++-------------+------------------+
+| Average     | APL              |
++-------------+------------------+
+| Challenging | APL +1           |
++-------------+------------------+
+| Hard        | APL +2           |
++-------------+------------------+
+| Epic        | APL +3           |
++-------------+------------------+
+
+
+Step 3 - Build the encounter
+*****************************
+
+Determine the "XP budget" for the encounter by looking for the CR on the table below. Every creature, trap, and hazard is worth an amount of XP.  To build your encounter, simply add creatures, traps, and hazards whose combined XP does not exceed the total XP budget for your encounter. It's easiest to add the highest CR challenges to the encounter first, filling out the remaining total with lesser challenges.
+
++-----+-----------------------------------------+
+|CR   | Individual XP                           |
+|     +-----------+---------+---------+---------+
+|     | Total XP  |1-3      |4-5      | 6+      |
++=====+===========+=========+=========+=========+
+| 1/8 | 50        | 15      | 15      | 10      |
++-----+-----------+---------+---------+---------+
+| 1/6 | 65        | 20      | 15      | 10      |
++-----+-----------+---------+---------+---------+
+| 1/4 | 100       | 35      | 25      | 15      |
++-----+-----------+---------+---------+---------+
+| 1/3 | 135       | 45      | 35      | 25      |
++-----+-----------+---------+---------+---------+
+| 1/2 | 200       | 65      | 50      | 35      |
++-----+-----------+---------+---------+---------+
+| 1   | 400       | 135     | 100     | 65      |
++-----+-----------+---------+---------+---------+
+| 2   | 600       | 200     | 150     | 100     |
++-----+-----------+---------+---------+---------+
+| 3   | 800       | 265     | 200     | 135     |
++-----+-----------+---------+---------+---------+
+| 4   | 1,200     | 400     | 300     | 200     |
++-----+-----------+---------+---------+---------+
+| 5   | 1,600     | 535     | 400     | 265     |
++-----+-----------+---------+---------+---------+
+| 6   | 2,400     | 800     | 600     | 400     |
++-----+-----------+---------+---------+---------+
+| 7   | 3,200     | 1,070   | 800     | 535     |
++-----+-----------+---------+---------+---------+
+| 8   | 4,800     | 1,600   | 1,200   | 800     |
++-----+-----------+---------+---------+---------+
+| 9   | 6,400     | 2,130   | 1,600   | 1,070   |
++-----+-----------+---------+---------+---------+
+| 10  | 9,600     | 3,200   | 2,400   | 1,600   |
++-----+-----------+---------+---------+---------+
+| 11  | 12,800    | 4,270   | 3,200   | 2,130   |
++-----+-----------+---------+---------+---------+
+| 12  | 19,200    | 6,400   | 4,800   | 3,200   |
++-----+-----------+---------+---------+---------+
+| 13  | 25,600    | 8,530   | 6,400   | 4,270   |
++-----+-----------+---------+---------+---------+
+| 14  | 38,400    | 12,800  | 9,600   | 6,400   |
++-----+-----------+---------+---------+---------+
+| 15  | 51,200    | 17,100  | 12,800  | 8,530   |
++-----+-----------+---------+---------+---------+
+| 16  | 76,800    | 25,600  | 19,200  | 12,800  |
++-----+-----------+---------+---------+---------+
+| 17  | 102,400   | 34,100  | 25,600  | 17,100  |
++-----+-----------+---------+---------+---------+
+| 18  | 153,600   | 51,200  | 38,400  | 25,600  |
++-----+-----------+---------+---------+---------+
+| 19  | 204,800   | 68,300  | 51,200  | 34,100  |
++-----+-----------+---------+---------+---------+
+| 20  | 307,200   | 102,000 | 76,800  | 51,200  |
++-----+-----------+---------+---------+---------+
+| 21  | 409,600   | 137,000 | 102,400 | 68,300  |
++-----+-----------+---------+---------+---------+
+| 22  | 614,400   | 205,000 | 153,600 | 102,400 |
++-----+-----------+---------+---------+---------+
+| 23  | 819,200   | 273,000 | 204,800 | 137,000 |
++-----+-----------+---------+---------+---------+
+| 24  | 1,228,800 | 410,000 | 307,200 | 204,800 |
++-----+-----------+---------+---------+---------+
+| 25  | 1,638,400 | 546,000 | 409,600 | 273,000 |
++-----+-----------+---------+---------+---------+
+
+Example: If you're targeting CR 1, with a XP budget of 400, 2 Orcs could fit the encounter (2 * 135 = 270), but 3 would exceed it. The remaining 130 xp 
+
+Source: Core Rulebook, Chapter 12 - Gamemastering, Building an Adventure, Designing Encounters
+
 
 Section 15: Copyright Notice
 *****************************
