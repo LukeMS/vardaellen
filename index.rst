@@ -259,8 +259,8 @@ d%      Effect
 99-100  The spell functions strongly. Saving throws against the spell incur a -2 penalty. The spell has the maximum possible effect, as if it were cast with the Maximize Spell feat. If the spell is already maximized with the feat, there is no further effect.
 ======= =======
 
-The Planes
-***********
+The Planes of the Vardaellen Campaign Setting
+**********************************************
 
 The planes, collectively, form a vast, are like continents floating on the Astral Ocean. 
 At the heart of the sphere lie the Material Plane and its twisted reflection, the Shadow Plane, bridged by the mists of the Ethereal Plane. The elemental planes of the Inner Sphere surround this heart. Farther out, beyond the void of the Astral Plane, sits the unimaginably vast Outer Sphere, which is itself surrounded and contained by the innumerable layers of the Abyss.
