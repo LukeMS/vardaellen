@@ -1,19 +1,19 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic);
 
-	.wrapper {
-		position: relative;
-		overflow: auto;
-		margin: 5px;
-	}
+.wrapper {
+	position: relative;
+	overflow: auto;
+	margin: 5px;
+}
 
-	.scroller {
-		padding: 10px;
-		max-width: 1000px;
-	}
+.scroller {
+	padding: 10px;
+	max-width: 1000px;
+}
 
-	.scroller table {
-		width: 100%;
-	}
+.scroller table {
+	width: 100%;
+}
 
 /* Global */
 body, img {

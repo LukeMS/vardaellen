@@ -4,6 +4,8 @@
 
 :raw-html:`<script type="text/javascript" src="script.js"></script>`
 
+:raw-html:`<h1><img alt="Vardaellen" name="optionalImages" src="art/vardaellen.png" /></h1>`
+
 This document is Open Game Content: its whole content is licensed for public use under the terms of the `Open Game License v1.0a`_.
 
 Much of the credit here goes to the the authors of a vast number of reference materials used, under the terms of the OGL, to produce this Campaign Setting. You can check the list at the `Section 15 of the above license <Open Game License v1.0a_>`_.

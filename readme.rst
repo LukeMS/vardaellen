@@ -1,3 +1,5 @@
+.. image:: art/vardaellen.png
+
 Vardaellen is a small, generic Campaign Setting for core PFRPG, released as whole to the public for free use hunder the `Open Game License`_ (OGL).
 
 You can find the `Campaign Setting itself here <Vardaellen campaign setting_>`_ .
