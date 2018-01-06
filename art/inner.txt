@@ -1,0 +1,41 @@
+The Inner Planes
+
+A representation of the Inner Planes for the Vardaellen Campaign Setting (https://github.com/LukeMS/vardaellen).
+License: CC-BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
+
+
+Assets used:
+	GSFC_20171208_Archive_e000261 - Astronomers Discover Dizzying Spin of the Milky Way Galaxy’s “Halo” (modified to be used as "Ethereal Plane")
+	Author: NASA
+	Source: https://images.nasa.gov/details-GSFC_20171208_Archive_e000261.html
+	License: "freely available for re-publication or re-use, including commercial purposes" (https://earthobservatory.nasa.gov/ImageUse/)
+	
+	Black Chancery font
+	Author: Doug Miles
+	Source: https://www.dafont.com/black-chancery.font
+	License: Public Domain
+	
+	earthsp_gal.jpg (modified to be used as "Plane of Air")
+	Author: NASA
+	Source: https://apod.nasa.gov/apod/fap/image/0212/earthsp_gal.jpg
+	License: "freely available for re-publication or re-use, including commercial purposes" (https://earthobservatory.nasa.gov/ImageUse/)
+	
+	sun-ball-beef-flame-fire-energy-1079244 (modified to be used as "Plane of Fire")
+	Author: Geralt
+	Source: https://pixabay.com/en/sun-ball-beef-flame-fire-energy-1079244/
+	License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+	
+	Wide Field Imager view of a Milky Way look-alike, NGC 6744 (modified to be used as "Material Plane")
+	Author: ESO - European Southern Observatory
+	Source: https://cdn.eso.org/images/screen/eso1118a.jpg
+	License: CC-BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
+	
+	Globe_-_Pacific_Ocean_space_view (modified to be used as "Plane or Water"
+	"This image has been originally created as an illustration to Pacific Ocean Quiz on globalquiz.org and shared under the CC-BY 3.0 license."
+	Source: https://commons.wikimedia.org/wiki/File:Globe_-_Pacific_Ocean_space_view.png
+	License: CC-BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
+	
+	18-planet-variations (modified to be used as "Plane of Earth")
+	Author: Hansjörg Malthaner
+	Source: https://opengameart.org/content/18-planet-variations
+	License: CC-BY 3.0 (http://creativecommons.org/licenses/by/3.0/)

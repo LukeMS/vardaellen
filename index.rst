@@ -281,7 +281,8 @@ The planes are briefly detailed below.
 .. A extensive forum discussion about the outter plane's denizens for d&d 3.x that closely relates to PFRPG: https://web.archive.org/web/20180103195725/http://www.giantitp.com/forums/showthread.php?182055-The-Outer-Planes-Angels-Archons-Demons-and-Devils
 .. Help me build an OGC outer plane cosmology http://www.enworld.org/forum/showthread.php?343408-Help-me-build-an-OGC-outer-plane-cosmology
 
-:raw-html:`<div id="images"><a class="reference external" href="https://orig00.deviantart.net/d22e/f/2018/005/f/5/the_inner_planes_by_lucasmsiqueira-dbz1us3.png"><img alt="Inner, Material and Ethereal planes" name="optionalImages" src="https://t00.deviantart.net/W-4coNImGsKcKqqDJfJZnsPsgaA=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/08a9/th/pre/f/2018/005/f/5/the_inner_planes_by_lucasmsiqueira-dbz1us3.png" /></a></div>`
+
+:raw-html:`<a href="art/inner.jpg"><img alt="Inner, Material and Ethereal planes" name="optionalImages" src="art/inner_thumb.jpg" /></a>`
 
 
 
