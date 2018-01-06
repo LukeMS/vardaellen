@@ -76,15 +76,15 @@ The planes break down into a number of general types: the Material Plane, the tr
      - Chaotic
    * - Good
      - `Heaven`_
-     - `Utopia`_
+     - `Nirvana`_
      - `Elysium`_
    * - Neutral
-     - `Olympus`_
+     - `Utopia`_
      - `Purgatory`_
      - `Entropy`_
    * - Evil
      - `Hell`_
-     - `Tartarus`_
+     - `Abbadon`_
      - `Abyss`_
 
 The natives of each plane tend to behave in agreement with that plane's alignment. The Outer Planes are also the final resting place of souls from the `Material Plane`_, whether that final rest takes the form of calm introspection or eternal damnation.
@@ -271,6 +271,11 @@ The planes are briefly detailed below.
 .. A extensive forum discussion about the outter plane's denizens for d&d 3.x that closely relates to PFRPG: https://web.archive.org/web/20180103195725/http://www.giantitp.com/forums/showthread.php?182055-The-Outer-Planes-Angels-Archons-Demons-and-Devils
 .. Help me build an OGC outer plane cosmology http://www.enworld.org/forum/showthread.php?343408-Help-me-build-an-OGC-outer-plane-cosmology
 
+|Inner, Material and Ethereal planes|_
+
+.. |Inner, Material and Ethereal planes| image:: https://t00.deviantart.net/W-4coNImGsKcKqqDJfJZnsPsgaA=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/08a9/th/pre/f/2018/005/f/5/the_inner_planes_by_lucasmsiqueira-dbz1us3.png
+.. _`Inner, Material and Ethereal planes`: https://orig00.deviantart.net/d22e/f/2018/005/f/5/the_inner_planes_by_lucasmsiqueira-dbz1us3.png
+
 Material Plane
 ===============
 
@@ -419,22 +424,24 @@ Native creatures
 Archons.
 
 
-.. _`Utopia`: `Utopia (NG)`_
+.. _`Nirvana`: `Nirvana (NG)`_
 
-Utopia (NG)
+Nirvana (NG)
 ============
 
 A plane of the purest good. Here the Middle Path between chaos and order is walked to achieve the greater good.
 
-The plane of Utopia consist of tectonic-like plates, varying from small to continental sizes, floating along the central northern part of the Astral Ocean.
-Its weather is diverse, varying from the tropical-like weather of its southern part, the Utopian Shores, passing trough a subtropical zone, a temperate zone and finally a cold one, the Utopian Arctic, at its northern part. One could say that Utopia looks like a hole hemisphere of Vardaellen.
-That allows the plane of Utopia to have a representation of every single vardaellenian biome, with its respective fauna and flora.
-In terms of variety it even surpasses the wildlife of the Elysium, but not in numbers, for even the wildlife population in Utopia is moderate.
+The plane of Nirvana consist of tectonic-like plates, varying from small to continental sizes, floating along the central northern part of the Astral Ocean.
+Its weather is diverse, varying from the tropical-like weather of its southern part, the Nirvana Shores, passing trough a subtropical zone, a temperate zone and finally a cold one, the Arctic Nirvana, at its northern part. One could say that Nirvana looks like a hole hemisphere of Vardaellen.
+That allows the plane of Nirvana to have a representation of every single vardaellenian biome, with its respective fauna and flora.
+In terms of variety it even surpasses the wildlife of the Elysium, but not in numbers, for even the wildlife population in Nirvana is moderate.
 Spread amongst each of those biomes there are small monasteries where those that follow the Way of the Middle Path live - proving that the Enlightment and Good can be obtained no matter where.
 
-Utopia has the following traits:
+.. COMMENT >>> Buddhism/Nirvana'ish
 
- * **Divinely Morphic**: Deities with domains in Utopia can alter the plane at will.
+Nirvana has the following traits:
+
+ * **Divinely Morphic**: Deities with domains in Nirvana can alter the plane at will.
  * **Strongly Good-Aligned**
  * **Enhanced Magic**: Spells and spell-like abilities with the good descriptor are enhanced.
  * **Impeded Magic**: Spells and spell-like abilities with the evil descriptor are impeded.
@@ -452,7 +459,7 @@ Elysium (CG)
 
 A plane of good and freedom. Artistry and creativity flourish at the taverns of Dionysia, the Capital of Arts - the dream of every bard.
 Outside of the city, wildlife thrives, either on the deep jungles and forest or on the many rivers that cross the Elysium. Even the Astral Ocean, when near the Coast of Elysium, assumes characteristics closer to those of the Material Plane's oceans, and becomes filled with live.
-Some of the greatest jungles and forests of Elysium and Utopia are spread across the frontier between those two planes, each one occupying areas that would make the greatest of the vardaellenian forests pale in comparison.
+Some of the greatest jungles and forests of Elysium and Nirvana are spread across the frontier between those two planes, each one occupying areas that would make the greatest of the vardaellenian forests pale in comparison.
 
 Elysium has the following traits:
 
@@ -467,18 +474,12 @@ Native creatures
 Azatas, Titans
 
 
-.. _`Olympus`: `Olympus (LN)`_
+.. _`Utopia`: `Utopia (LN)`_
 
-Olympus (LN)
+Utopia (LN)
 ==================
 
-A place of perfect order. It consists of the Mount Olympus, lair to most of the gods, and, guarding its only entry, the Golden Fortress.
-
-
-Utopia (Lawful Neutral)
-========================
-
-Utopia is a bastion of order against the chaos of Limbo and the countless demonic hordes of the Abyss. A great city of eternal perfection, Utopia's streets and buildings are paragons of architecture and aesthetics; everything is ordered and nothing happens by chance. While no one race rules Utopia, axiomites and inevitables make their homes here, forever striving to expand their perfect city.
+A place of perfect order. It consists of the Mount Olympus, lair to many gods, and, at its only entry, the Golden Hall.
 
 Utopia has the following traits:
 
@@ -490,29 +491,28 @@ Utopia has the following traits:
 
 Inside each godly citadel, however, the rules vary according to each specific deity, as if the citadel was a minor plane of its own.
 
-.. COMMENT >>> Buddhism's Nirvana
-
-Native creatures
-~~~~~~~~~~~~~~~~~
-
-axiomites, formians, and inevitables.
-
-
 Mount Olympus
 ~~~~~~~~~~~~~~
 
-The highest mountain of the planes, Mount Olympus has a perfectly plain top of continental size, covered by The Dome: a magic barrier as impenetrable as something maintained by the combined power of many gods would be.
-Inside The Dome, each god has its own small citadel, where they live surrounded by their most faithful followers, most brilliant assistants, and greatest guardians.
-The Dome itself is like a great Estate of complete perfection, with roads of golden bricks interconnecting every godly citadel in perfectly symmetric ways - the citadels themselves, however, are exactly how their deities want them to be once one leaves the common grounds of The Dome and enters a specific domain, everything could be found.
+The highest mountain of all the planes, Mount Olympus has a perfectly plain top of continental size. There lives many gods that preferred a reclusive life, far from the stressful life of frequent battles for domain and power that takes place on many of the Outer Planes.
+
+Each resident god has a Citadel, made to suit their desires. Those citadels can actually be considered demi-planes matching the deitie's alighment. At the citadels, a few selected mortal souls amongst the most faithful followers, most brilliant assistants, and greatest guardians are allowed to live.
 
 The Golden Hall
 ~~~~~~~~~~~~~~~~
 
-A huge hall,  the only entrance to The Dome where the gods lives, is home to the legendary heroes of the past, those that, coming from all planes, worlds and races, proved themselves in battle and performed epic deeds during their lives. They act as a common guard to the Gods of Olympus.
-All day long they fight one another, practicing, performing epic battles, becoming stronger than they could ever be while alive. And every night their wounds are healed, their health fully recovered and they're served feasts worthy of the gods that they guard themselves.
-Among them, some that also prove themselves as faithful followers (and pleasant company) are invited to live on the divine citadels, serving their deities more closely.
+Covering both the South and the East borders of the Olympu's, the Golden Hall's also function as a huge wall, forcing eventual invasors from other planes to have to fight those who there keep guard before ever having the chance to bother the gods of Olympus.
+The Golden Hall is home to the legendary heroes of the past, those that, coming from all planes, worlds and races, proved themselves in battle and performed epic deeds during their lives.
+All day long they fight one another, practicing, performing epic battles, becoming stronger than they could ever be while alive. And every night their wounds are healed, their health fully recovered and they're served feasts worthy of the gods  themselves.
+Among those heroes, the ones that prove themselves to also be faithful followers (and pleasant company) receive the privilege of joining their deities for eventual private feasts or, even more, actually becoming part of its permanent guard.
 
-.. COMMENT >>> pretty much like The Halls of Valhalha, but in a lawful way
+.. COMMENT >>> pretty much like The Halls of Valhalha, but in a lawful way, so no ceilings of shields and furniture of spears, I guess
+
+Native creatures
+~~~~~~~~~~~~~~~~~
+
+Outside of the plane’s resident gods, their own petitioners and direct servants, three outsider races populate the plane of Utopia: axiomites, formians, and inevitables.
+
 
 .. _`Purgatory`: `Purgatory (TN)`_
 
@@ -589,18 +589,16 @@ Native Creatures
 Mostly devils, but also kytons and asuras.
 
 
-.. _`Tartarus`: `Tartarus (NE)`_
+.. _`Abbadon`: `Abbadon (NE)`_
 
-Tartarus (NE)
-==============
+Abbadon (NE)
+============
 
-A plane of pure Evil. The Tartarian Oblivion.
-The Astral Ocean's water, when entering the Tartarus domains, becomes acid, where its deepest point is found: at the bottom of the Tartarian Gulf, the deepest of the gulfs, lies the Tartarian Trench, the deepest of the all places among the planes, believed to be bottomless. The Trench itself is used as a dungeon: cells of indestructible walls and gates are constructed on pits carved on its walls, the greatest threats being placed at the greatest depths, where they forever remain into complete Oblivion.
-The surface of the Tartarian Wastelands is the home of the daemons, fiends of pure evil untouched by the struggle between law and chaos, who personify oblivion and destruction. Daemons, which are ruled by four godlike archdaemons, are feared throughout The Planes as devourers of souls.
+A plane of pure Evil. Notable locations are The Wasteland and Tartarus.
 
-The Tartarus has the following traits:
+Abaddon has the following traits:
 
- * **Divinely Morphic**: Deities with domains in Tartarus can alter the plane at will.
+ * **Divinely Morphic**: Deities with domains in Abbadon can alter the plane at will.
  * **Strongly Evil-Aligned**
  * **Enhanced Magic**: Spells and spell-like abilities with the evil descriptor are enhanced.
  * **Impeded Magic**: Spells and spell-like abilities with the good descriptor are impeded.
@@ -610,6 +608,20 @@ Native creatures
 ~~~~~~~~~~~~~~~~~
 
 Amongst other beings of evil, the majority of the creatures found in Tartarus are `daemons <Daemon_>`_.
+
+
+ A realm of vast wastelands under a rotten sky, Abaddon is perpetually cloaked in a cloying black mist and the oppressive twilight of an endless solar eclipse. The poisoned River Styx has its source in Abaddon, before it meanders like a twisted serpent onto other planes. Abaddon may be the most hostile of the Outer Planes; it is the home of the daemons, fiends of pure evil untouched by the struggle between law and chaos, who personify oblivion and destruction. Daemons, which are ruled by four godlike archdaemons, are feared throughout the Great Beyond as devourers of souls.
+
+The Wasteland
+~~~~~~~~~~~~~~
+
+The Wastelands are home to the daemons, fiends of pure evil untouched by the struggle between law and chaos, who personify oblivion and destruction. Daemons are feared throughout The Planes as devourers of souls.
+
+Tartarus
+~~~~~~~~~
+
+The Astral Ocean's water, when entering Abbadon domains, becomes acid, and there its deepest point is found: at the bottom of the Gulf of Abbadon, the deepest of the gulfs, lies the Tartarian Trench, the deepest of places among all the planes -  believed by many to actually be bottomless. The Trench itself is used as a dungeon: cells of indestructible walls and gates are constructed on pits carved on its walls, the greatest threats being placed at the greatest depths, where they forever remain into complete Oblivion.
+
 
 .. COMMENT >>> In Greek mythology, Tartarus is the deep abyss that is used as a dungeon of torment and suffering for the wicked and as the prison for the Titans.
 
@@ -652,7 +664,7 @@ Demons exist for one reason—to destroy. Where their more lawful counterparts, 
 
 Demons are the most prolific and among the most destructive of the fiendish races, yet despite what some lore might preach, they were not the first forms of life to rise in the stinking pits of ruin and cruelty known across the multiverse as `Abyss`_. Before the first fledgling deity gazed upon reality, before mortal life drew its breath, before even the Material Plane itself had fully formed, the Abyss was infested with life.
 
-Known to many scholars as “proto-demons,” these wretched and deadly beings were the qlippoth. Today, because of the influence of sinful mortal souls upon the Abyss, mixed with unholy tamperings at the hands of the daemonic keepers of Tartarus and the cruel whims of fate and evolution, the rule of the qlippoth has receded. The proto-demons dwell now in the noxious and forgotten corners of the Abyss, and the far more fecund and prolific demons rule now in their stead. With each evil mortal soul that finds its way into the Abyss, the ranks of the demonic hordes grows—a single soul can fuel the manifestation of dozens or even hundreds of demons, with the exact nature of the sins carried by the soul guiding the shapes and roles of the newly formed fiends.
+Known to many scholars as “proto-demons,” these wretched and deadly beings were the qlippoth. Today, because of the influence of sinful mortal souls upon the Abyss, mixed with unholy tamperings at the hands of the daemonic keepers of Abbadon and the cruel whims of fate and evolution, the rule of the qlippoth has receded. The proto-demons dwell now in the noxious and forgotten corners of the Abyss, and the far more fecund and prolific demons rule now in their stead. With each evil mortal soul that finds its way into the Abyss, the ranks of the demonic hordes grows—a single soul can fuel the manifestation of dozens or even hundreds of demons, with the exact nature of the sins carried by the soul guiding the shapes and roles of the newly formed fiends.
 
 The Abyss is a vast (some say infinite) realm, far larger than any other plane save possibly the primal chaos of the Entropy itself. As befits such a vast and varied realm, the demonic host is likewise diverse. Some carry in their frames humanoid shapes, while others are twisted beasts. Some flop on land while others flap in air or sea. Some are schemers and manipulators of emotion and politics, others are destructive engines of ruin. Yet all demons work to the same goal—pain and suffering for mortal life in all its forms.
 
@@ -667,7 +679,7 @@ Harbingers of ruin and embodiments of the worst ways to die, daemons epitomize p
 
 Notorious for their hatred of the living, daemons are the things of dark dreams and fearful tales, as their ultimate ambitions include extinguishing every individual mortal life—and the more violent or terrible the end, the better. Their methods vary wildly, typically differentiated by daemonic breed. Many seek to infiltrate the mortal plane and sow death by their own taloned hands, while others manipulate agents (both mortal and immortal) as malevolent puppet masters, instigating calamities on massive scales from their grim realms. Such diversity of methods causes many planar scholars to misattribute the machinations of daemons to other types of fiends. These often deadly mistakes are further propagated by daemons' frequent dealings with and manipulation of other outsiders. Yet in all cases, despair, ruin, and death, spreading like contagion, typify the touch of daemonkind, though such symptoms often prove recognizable only after the hour is far too late.
 
-Daemons flourish upon the plane of Tartarus, a bleak expanse of cold mists, fearful shapes, and hunted souls. Upon these wastes, the souls of evil mortals flee predation by the native fiends, and terror and the powers of the evil plane eventually transform the most ruthless into daemons themselves. Amid these scarred wastelands, poison swamps, and realms of endless night rise the foul domains of the tyrants of daemonkind, the Four Horsemen of the Apocalypse. Lords of devastation, these powerful and unique daemons desire slaughter, ruin, and death on a cosmic scale, and drive hordes of their lesser kin to spread terror and sorrow across the planes. Although the Horsemen share a singular goal, their tactics and ambitions vary widely.
+Daemons flourish upon the plane of Abbadon, a bleak expanse of cold mists, fearful shapes, and hunted souls. Upon these wastes, the souls of evil mortals flee predation by the native fiends, and terror and the powers of the evil plane eventually transform the most ruthless into daemons themselves. Amid these scarred wastelands, poison swamps, and realms of endless night rise the foul domains of the tyrants of daemonkind, the Four Horsemen of the Apocalypse. Lords of devastation, these powerful and unique daemons desire slaughter, ruin, and death on a cosmic scale, and drive hordes of their lesser kin to spread terror and sorrow across the planes. Although the Horsemen share a singular goal, their tactics and ambitions vary widely.
 
 Along with mastery over vast realms, the Horsemen are served by unimaginably enormous armies of their lesser brethren, but are obeyed most closely by retinues of daemons enslaved to their titles. These specific strains of daemonic servitors, known among daemonkind as deacons, serve whoever holds the title of Horseman. Although these instruments of the archdaemons differ in strength and ability, their numbers provide their lords with legions capable of near-equal terrorization.
 
