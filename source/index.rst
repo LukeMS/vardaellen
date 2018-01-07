@@ -1,10 +1,13 @@
 .. role::  raw-html(raw)
     :format: html
 
+.. >>> fixed header
 
-:raw-html:`<script type="text/javascript" src="script.js"></script>`
+:raw-html:`<div id="header"><img src="_static/art/vardaellen.png" /></div>`
 
-:raw-html:`<figure><img alt="Vardaellen - A PFRPG Campaign Setting" name="optionalImages" src="art/vardaellen.png" /><figcaption>Vardaellen - A PFRPG Campaign Setting</figcaption></figure><br/><hr>`
+.. >>> toggle images script
+
+:raw-html:`<script type="text/javascript" src="_static/script.js"></script>`
 
 This whole document is considered Open Game Content, free for public use under the terms of the `Open Game License v1.0a`_.
 
@@ -90,10 +93,10 @@ Collectively known as "The Planes", they form a vast system of continent-like ma
 The Inner Sphere
 =================
 
+:raw-html:`<a href="_static/art/inner.jpg"><figure><img alt="The Inner Sphere" name="optionalImages" src="_static/art/inner_thumb.jpg" /><figcaption>Image: The Inner Sphere.</figcaption></figure></a>`
+
 At the depths of the Astral Ocean, The Inner Sphere is a irregular sphere, filled with a fog-like substance - The Ethereal Plane. At is outermost area, the Ethereal Plane takes a more solid form, resembling a plasma or glue, barring the Astral Plane from completely filling the Inner Sphere. At its innermost part, the Ethereal Plane takes a form that more closely resembles a fog.
 Located at the heart of the Inner, the Material plane coexists with its twisted reflection, Shadow Plane. Surrounding them are the elemental planes (air, earth, fire, and water) and the energy planes (negative and positive), resembling moons orbiting a planet.
-
-:raw-html:`<a href="art/inner.jpg"><figure><img alt="The Inner Sphere" name="optionalImages" src="art/inner_thumb.jpg" /><figcaption>Image: The Inner Sphere.</figcaption></figure></a>`
 
 The planes are briefly detailed below.
 
@@ -982,7 +985,7 @@ Imenteshes: These cunning proteans seek to subvert the forces of order from with
 Keketars: Priest-kings and voices of Entropy itself, keketars rule their fellows in the name of their bizarre god. Though their forms are extremely mutable, keketars can always be recognized thanks to eyes that glow amber or violet and floating crowns of swirling and changing symbols that often appear above their heads. Organized into cabals called choruses, keketars seek only to understand and follow the will of entropy.
 
 
-.. include:: LICENSE.rst
+.. include:: ../LICENSE.rst
 
 
 .. >>> ------------------ METASTUFF ------------------
@@ -1003,4 +1006,3 @@ Keketars: Priest-kings and voices of Entropy itself, keketars rule their fellows
 .. >>> Writing HTML (CSS) Stylesheets for Docutils: https://docutils.readthedocs.io/en/sphinx-docs/howto/html-stylesheets.html
 
 .. >>> reStructuredText Directives: http://docutils.sourceforge.net/docs/ref/rst/directives.html
-
