@@ -1006,3 +1006,5 @@ Keketars: Priest-kings and voices of Entropy itself, keketars rule their fellows
 .. >>> Writing HTML (CSS) Stylesheets for Docutils: https://docutils.readthedocs.io/en/sphinx-docs/howto/html-stylesheets.html
 
 .. >>> reStructuredText Directives: http://docutils.sourceforge.net/docs/ref/rst/directives.html
+
+.. >>> quick text rst2html5: <p><span class="raw-html"><script type="text/javascript" src="_static/script.js"></script></span></p>
