@@ -6,8 +6,9 @@
 
     :copyright: Copyright 2007-2017 by the Sphinx team, see AUTHORS.
     :license: BSD, see LICENSE for details.
-#}
+#} 
 {% block body %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" />
     {{ body }}
 {% endblock %}

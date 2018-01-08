@@ -1,5 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic);
 
+@-ms-viewport{
+  width: device-width;
+}
+
 .wrapper {
     position: relative;
     overflow: auto;
