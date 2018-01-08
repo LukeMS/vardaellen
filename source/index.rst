@@ -1007,4 +1007,4 @@ Keketars: Priest-kings and voices of Entropy itself, keketars rule their fellows
 
 .. >>> reStructuredText Directives: http://docutils.sourceforge.net/docs/ref/rst/directives.html
 
-.. >>> quick text rst2html5: <p><span class="raw-html"><script type="text/javascript" src="_static/script.js"></script></span></p>
+.. >>> quick text rst2html5: <link rel="stylesheet" href="themes/vardaellen/static/vardaellen.css" type="text/css" />

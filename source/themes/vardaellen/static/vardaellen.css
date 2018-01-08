@@ -14,6 +14,7 @@ body, img {
 }
 
 img {
+    width: auto;
     max-width: 100%;
     height: auto;
 
@@ -245,8 +246,9 @@ figure {
     margin: 0.5em 0 0.5em 0.5em;
     padding: 0.5em;
     display: table;
-    width: 1px;
+    width: auto;
 }
+/* for small pictures widt: 1px makes the figcaption wrap */
 
 figcaption {
     margin: 0.5em;
